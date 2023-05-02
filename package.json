@@ -1,0 +1,15 @@
+{
+  "name": "hyper-sdk-extension-gossip-swarm-example",
+  "version": "1.0.0",
+  "description": "An example for how you can use hyper-sdk to create a swarm of peers to gossip around a topic.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RangerMauve",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "hyper-sdk": "^4.2.4"
+  }
+}
